@@ -8,3 +8,5 @@ For this part of the project, we are using the MySQL connector to connect our da
 ## Resources
 
 [W3Schools] (www.w3schools.com/python/python_mysql_getstarted.asp)
+
+[How to clone a repo] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
