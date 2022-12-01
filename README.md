@@ -11,4 +11,6 @@ For this part of the project, we are using the MySQL connector to connect our da
 
 [How to clone a repo] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-[Git Bash Command How To} (https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/)
+[Git Bash Command How To] (https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/)
+
+[MySQL mySQL.Connector Manual] (https://dev.mysql.com/doc/connector-python/en/connector-python-example-ddl.html)
