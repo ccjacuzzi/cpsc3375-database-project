@@ -5,6 +5,9 @@ We learned about relational databases in this class. We started this project by 
 ### Python / MySQL Integration
 For this part of the project, we are using the MySQL connector to connect our datbase to Python. Once this is complete, we are going to make a simple graphical user interface (text based at this time) where a user could interact with the database. 
 
+### Project Topic Changed & Version 1.0 Completed
+I changed my database for this project from the online retailer one to one for a blog. The online retailer db was just too big for me to deal with for my first project of this sort. I changed to a simple db for a blog that only has two tables - compared to the 15 or so for the previous one. Version 1.0 of this project is a simple command line interface that will allow the user to create an account, sign in, create a post, delete a post, and view all posts. This is a very simple project, but it was a good way for me to get aquainted with mySQL.connector for python.
+
 ## Resources
 
 [W3Schools] (www.w3schools.com/python/python_mysql_getstarted.asp)
