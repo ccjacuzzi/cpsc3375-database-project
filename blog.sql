@@ -2,6 +2,9 @@ create database blog;
 
 use blog;
 
+SELECT * FROM blog_user;
+insert into blog_user (name, email, password) values (1,1,1);
+
 create table blog_user (
 	user_id int auto_increment primary key,
     name varchar(50) not null,
